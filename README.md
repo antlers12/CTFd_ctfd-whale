@@ -203,7 +203,7 @@ admin_port = 7400
 
 ## 出题&设置动态flag
 
-> https://penguincc.top/archives/23/
+> 参考：https://penguincc.top/archives/23/
 
 先说一下目的，我需要本地出完题目后，生成镜像，最后push到自己的DockerHub上。
 
