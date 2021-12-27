@@ -266,6 +266,14 @@ sudo docker push antlers12/upload-labs11
 
 
 
+## CTFd记分牌插件
+
+如果需要查询每个人具体的做题情况，我们可以使用一个记分牌的插件进行查看，我本地Fork了一个适用于CTFdv3.0的插件[ctfd-matrix-scoreboard-plugin](https://github.com/antlers12/ctfd-matrix-scoreboard-plugin)
+
+我们可以将插件放入CTFd/plugins再重启CTFd
+
+
+
 ## 参考链接
 
 https://err0r.top/article/CTFD/#
