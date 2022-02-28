@@ -178,6 +178,11 @@ sudo docker-compose up -d
 ## 配置CTFd
 
 在基础配置后，我们需要对CTFd-Whale插件进行配置。
+```
+docker network ls   # 查看网络信息
+
+docker network inspect ctfd_frp   # 显示ctfd_frp网络的详细信息
+```
 
 ![2021-12-05-ctfd1](images/2021-12-05-ctfd1.png)
 
